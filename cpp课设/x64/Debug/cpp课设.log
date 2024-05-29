@@ -1,0 +1,6 @@
+﻿  relationship.cpp
+D:\Code\vs2022\CPP\cpp课设\cpp课设\relationship.h(15,17): warning C4091: “extern ”: 没有声明变量时忽略“Vec”的左侧
+  (编译源文件“relationship.cpp”)
+  
+D:\Code\vs2022\CPP\cpp课设\cpp课设\relationship.cpp(99,1): warning C4715: “relationship::contacts_find”: 不是所有的控件路径都返回值
+  cpp课设.vcxproj -> D:\Code\vs2022\CPP\cpp课设\x64\Debug\cpp课设.exe
